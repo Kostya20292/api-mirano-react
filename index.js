@@ -15,7 +15,7 @@ const corsOptions = {
   origin: [
     'http://127.0.0.1:5500',
     'http://localhost:5173',
-    'https://mirano-react-three.vercel.app/',
+    'https://mirano-react-three.vercel.app',
   ], // Замените на URL вашего фронтенда
   credentials: true,
 };
